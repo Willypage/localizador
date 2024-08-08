@@ -102,6 +102,7 @@ a:active.navar {
 
 main {
 
+  position: absolute;
   width: 65%;
   padding-right: 3px;
   margin-left: 25%;
