@@ -2,9 +2,6 @@
   
 
 
-
-
-
   a:link {
   font-size: 20px;
   font-family: arial;
@@ -40,6 +37,7 @@ a:active {
 
 
 aside { 
+
 
   width: 22%;
   padding-right: 15px;
@@ -102,9 +100,9 @@ a:active.navar {
 
 main {
 
-  position: absolute;
+position: absolute;
   width: 65%;
-  padding-right: 3px;
+  padding-right: 1px;
   margin-left: 25%;
   float: left;
   font-style: arial;
@@ -175,11 +173,12 @@ font-family: arial;}
 
 
 
+body { background-image: url(1679097377_bogatyr-club-p-futazh-belii-fon-foni-krasivo-1.jpg);
 
 
-
-
-
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
 
 
 </style>
